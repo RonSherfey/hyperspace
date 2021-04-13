@@ -9,7 +9,7 @@
   "dependencies": {
     "bignumber.js": "^9.0.1",
     "browserify": "^17.0.0",
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "macha": "^0.0.0",
     "solc": "^0.6.10",
     "underscore": "^1.9.1",
