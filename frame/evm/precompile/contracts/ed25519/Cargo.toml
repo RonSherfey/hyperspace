@@ -13,7 +13,7 @@ version     = "1.3.0"
 # crates
 hyperspace-evm-primitives = { default-features = false, path = "../../../../../primitives/evm" }
 ed25519-dalek           = { version = "1.0.0", default-features = false, features = ["alloc", "u64_backend"] }
-evm                     = { version = "0.22.0", default-features = false, features = ["with-codec"] }
+evm                     = { version = "0.31.0", default-features = false, features = ["with-codec"] }
 # substrate
 sp-core = { default-features = false, git = "https://github.com/new-mvs/substrate", branch = "latest" }
 sp-io   = { default-features = false, git = "https://github.com/new-mvs/substrate", branch = "latest" }
